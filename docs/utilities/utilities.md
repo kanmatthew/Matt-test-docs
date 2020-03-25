@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Utilities
+title: Start a Private Session
 nav_order: 4
 has_children: true
 permalink: docs/utilities
