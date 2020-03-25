@@ -4,6 +4,21 @@ title: Test Markdown Matthew
 nav_order: 9
 ---
 
+# Markdown Challenge Matthew
+{: .no_toc }
+
+
+Just trying some of the challenges Sam posed for us with Markdown.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## Interesting Quotes
 
 This first quote from [George Washington](https://www.brainyquote.com/quotes/george_washington_135801?src=t_alone), the first president of the United States of America,  explains the importance in the company you choose to surround yourself with.
