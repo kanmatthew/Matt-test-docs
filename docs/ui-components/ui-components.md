@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Finding Songs Catered To Your Taste
+title: Creating and Sharing Playlists
 nav_order: 2
 has_children: true
-permalink: /docs/ui-components
+permalink: /docs/creating-and-sharing-playlists
 ---
 
 # Creating and Sharing Playlists
