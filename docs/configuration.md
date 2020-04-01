@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Recover Deleted Playlists
+title: Recovering Deleted Playlists
 nav_order: 2
 ---
 
-# Configuration
+# Recovering Deleted Playlists
 {: .no_toc }
 
 
