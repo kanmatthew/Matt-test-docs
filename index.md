@@ -36,4 +36,4 @@ To follow these instructions, you will need:
 As mentioned above in the **_Prerequisites_**, you must have the Spotify Web Player installed and be logged into the application. Here are a few steps to get you started.
 
 1. Go to the [Spotify](https://www.spotify.com/us/) homepage
-![HomePage](/images/Spotify%20Homepage.png?raw=true)
+![HomePage](assets/images/Spotify%20Homepage.png?raw=true)
