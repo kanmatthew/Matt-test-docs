@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Start a Private Session
+title: Starting a Private Session
 nav_order: 4
 has_children: true
 permalink: docs/utilities
 ---
 
-# Start a Private Session
+# Starting a Private Session
 {: .no_toc }
 
 CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
