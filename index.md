@@ -27,3 +27,9 @@ To follow these instructions, you will need:
 * Mac, Windows, or Linux Operating System.
 * Spotify.com Account.
 * Basic Computer Skills.
+
+---
+
+## Before You Begin
+
+As mentioned above in the **_Prerequisites_**, before you can begin, you must be logged into your Spotify Account and be ready to use the application. If you do not have an existing account, please go to [Spotify](https://accounts.spotify.com/en/login/?_locale=en-US&continue=https:%2F%2Fwww.spotify.com%2Fus%2Faccount%2Foverview%2F)'s website and follow their instructions to sign up for one.
