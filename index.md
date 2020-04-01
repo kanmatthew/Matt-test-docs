@@ -24,8 +24,6 @@ For these set of instructions, we will be using the latest version of the Spotif
 
 To follow these instructions, you will need:
 
-..* Mac, Windows, or Linux Operating System.
-..* Spotify.com Account.
-..* Basic Computer Skills.
-
----
+* Mac, Windows, or Linux Operating System.
+* Spotify.com Account.
+* Basic Computer Skills.
