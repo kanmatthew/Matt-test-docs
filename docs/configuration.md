@@ -20,7 +20,7 @@ This task will outline the steps towards deleting a playlist and recovering lost
 ---
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+<!--View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.-->
 
 ## Deleting a Playlist
 
