@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deleting and Recovering Playlists
-nav_order: 2
+nav_order: 3
 ---
 
 # Deleting and Recovering Playlists
