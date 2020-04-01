@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Recovering Deleted Playlists
+title: Deleting and Recovering Playlists
 nav_order: 2
 ---
 
-# Recovering Deleted Playlists
+# Deleting and Recovering Playlists
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+This task will outline the steps towards deleting a playlist and recovering lost ones.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -22,25 +22,21 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
-## Site logo
+## Deleting a Playlist
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+1. Select a playlist you would like to delete.
+2. Find the **triple-dotted** button located in the title card of the playlist page.
+3. Press the **Delete** button.
 
-## Search
+## Recovering a Playlist
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+1. Navigate to your **Account** through the drop down menu in the top right corner.
+2. Scroll down to the **Recover Playlists** tab.
+3. Click **Restore** next to the desired playlist.
 
-# Enable support for hyphenated search words:
-search_tokenizer_separator: /[\s/]+/
 
-```
 
+<!--
 ## Aux links
 
 ```yaml
@@ -49,7 +45,8 @@ aux_links:
   "Just the Docs on GitHub":
     - "//github.com/pmarsceill/just-the-docs"
 ```
-
+-->
+<!--
 ## Heading anchor links
 
 ```yaml
@@ -59,14 +56,16 @@ aux_links:
 # Supports true (default) or false/nil
 heading_anchors: true
 ```
-
+-->
+<!--
 ## Footer content
 
 ```yaml
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 ```
-
+-->
+<!--
 ## Color scheme
 
 ```yaml
@@ -78,7 +77,8 @@ color_scheme: "dark"
 <script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
 
 See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
-
+-->
+<!--
 ## Google Analytics
 
 ```yaml
@@ -86,3 +86,4 @@ See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more
 # e.g, UA-1234567-89
 ga_tracking: UA-5555555-55
 ```
+-->
