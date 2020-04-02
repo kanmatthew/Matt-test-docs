@@ -2,6 +2,7 @@
 layout: default
 title: Deleting and Recovering Playlists
 nav_order: 3
+permalink: docs/deleting-and-recovering-playlists
 ---
 
 # Deleting and Recovering Playlists
