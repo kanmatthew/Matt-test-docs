@@ -2,7 +2,6 @@
 layout: default
 title: Starting a Private or Offline Session
 nav_order: 4
-has_children: true
 permalink: docs/starting-a-private-or-offline-session
 ---
 
