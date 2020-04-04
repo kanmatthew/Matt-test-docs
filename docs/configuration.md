@@ -29,7 +29,7 @@ This task will outline the steps towards deleting a playlist and recovering lost
 2. Hover over the **Playlist Name** within the left sidebar.
 3. **Right-Click** with your mouse to reveal a hidden menu.
 4. Press the **Delete** button from the list of options.
-5. Press **DELETE** a second time to confirm your action. The playlist will successfull be deleted when a notification titled *Removed From Your Library*
+5. Press **DELETE** a second time to confirm your action. The playlist will successfully be deleted when a notification titled *Removed From Your Library*
 
 ## Recovering a Playlist
 
