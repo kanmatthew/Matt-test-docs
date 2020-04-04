@@ -28,6 +28,7 @@ To follow these instructions, you will need:
 * Spotify.com Account.
 * Spotify Web Player.
 * Basic Computer Skills.
+* Internet Browser.
 
 ---
 
