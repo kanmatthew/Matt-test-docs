@@ -26,14 +26,17 @@ This task will outline the steps towards deleting a playlist and recovering lost
 ## Deleting a Playlist
 
 1. Select a playlist you would like to delete.
-2. Find the **triple-dotted** button located in the title card of the playlist page.
-3. Press the **Delete** button.
+2. Hover over the **Playlist Name** within the left sidebar.
+3. **Right-Click** with your mouse to reveal a hidden menu.
+4. Press the **Delete** button from the list of options.
+5. Press **DELETE** a second time to confirm your action. The playlist will successfull be deleted when a notification titled *Removed From Your Library*
 
 ## Recovering a Playlist
 
-1. Navigate to your **Account** through the drop down menu in the top right corner.
-2. Scroll down to the **Recover Playlists** tab.
-3. Click **Restore** next to the desired playlist.
+1. Press the **Arrow** next to your Account name.
+2. Press **Account** within the drop down menu to be redirected to your account page in an internet browser.
+3. Scroll down and click the **Recover Playlists** tab from the sidebar. A list of removed playlists should be displayed with its name and date of removal.
+4. Click **Restore** next to the desired playlist to add it back to your library. The playlist will be successfully recovered if it shows up in your library.
 
 
 
