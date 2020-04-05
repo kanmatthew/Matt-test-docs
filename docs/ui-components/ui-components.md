@@ -41,7 +41,10 @@ The song will be successfully added when it appears within the playlist.
 
 1. Choose a playlist to share.
 2. Visit the playlist's page by clicking on it.
+![PlaylistPage](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/playlist-page.png?raw=true "Playlist Page")
 3. Click the **triple-dotted** button to open playlist options.
-4. Hover your cursor over the **Share** button to display the sharing options.
-5. Select the method of sharing the playlist.
-  **Note**: some services require you to have an account prior to sharing a playlist.
+![TripleDotButton](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/playlist-triple-dot-button.png?raw=true "Triple Dotted Button Location")
+4. Hover your cursor over **Share** and select **Copy Playlist Link**. 
+![ShareOptions](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/copy-playlist-link.png?raw=true "Sharing Options")
+The link to the playlist will be copied to your clipbord. <br>
+*Note: Your playlist needs to be public in order for other users to access it.*
