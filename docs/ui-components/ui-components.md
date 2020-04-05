@@ -23,18 +23,19 @@ This task will outline the steps towards creating and sharing playlists.
 ## Creating a Playlist
 
 1. Click the **New Playlist** button at the bottom of the sidebar on the left side.
-![New Playlist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/pointing-to-playlist.png?raw=true "New Playlist Button")
+![NewPlaylist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/pointing-to-playlist.png?raw=true "New Playlist Button")
 2. Give the playlist a title, an optional description, then press **CREATE**.
-![Create Playlist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/create-playlist.PNG?raw=true "Creating Playlist")
+![CreatePlaylist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/create-playlist.PNG?raw=true "Creating Playlist")
 The playlist will be successfully created if it shows up in the sidebar on the left.
 
 ## Adding Songs to a Playlist
 
 1. Select a song to be added to a playlist.
-2. Hover your cursor over the the song's name.
-3. **Right-Click** on the song's name to display a menu of options.
-4. Hover your cursor over **Add to Playlist**. This will show you the available playlists this song can be added to.
-5. Click the desired playlist. The song will be successfully added when it appears within the playlist.
+2. Hover your cursor over the the song's name and **Right-Click** to display a menu of options.
+![SongOptions](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/song-menu.png?raw=true "Song Options")
+3. Hover your cursor over **Add to Playlist**, then click on the desired playlist. 
+![AddSong](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/add-song-to-playlist.png?raw=true "Adding to Playlist")
+The song will be successfully added when it appears within the playlist.
 
 ## Sharing a Playlist
 
