@@ -54,4 +54,4 @@ As mentioned above in the **Prerequisites**, you must have the Spotify Web Playe
 
 **_Note_**: If you don't already have an account, click **SIGN UP FREE** and follow the instructions to create an account.
 
-**Great job!** You have successfully setup and logged into your Spotify web player.
+**Great job!** You have successfully setup and logged into your Spotify Web Player.
