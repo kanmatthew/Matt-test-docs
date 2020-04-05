@@ -25,11 +25,11 @@ If you forget your login password, when you open up the Spotify Web Player appli
 
 1. If you accidentally hit a wrong keystroke while naming your playlist or you want to edit the description you've given, click the name of the playlist in your sidebar.  
 
-![EditPlaylist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/editplaylist1.png?raw=true)
+    ![EditPlaylist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/editplaylist1.png?raw=true)
 
 2. After you click on the on the playlist you would like to edit, you will see the following:  
 
-![EditPlaylist2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/editplaylist2.png?raw=true)
+    ![EditPlaylist2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/editplaylist2.png?raw=true)
 
 _Now you can change the name of the playlist or its description_.
 
@@ -37,15 +37,15 @@ _Now you can change the name of the playlist or its description_.
 
 1. Go to the wrong playlist you added a song to and find the song.  
 
-![wrong_playlist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/wrong_playlist.png?raw=true)
+    ![wrong_playlist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/wrong_playlist.png?raw=true)
 
 2. Click the **triple dotted** button and add the song to the correct playlist.  
 
-![wrong_playlist2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/wrong_playlist2.png?raw=true)
+    ![wrong_playlist2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/wrong_playlist2.png?raw=true)
  
 3. After adding your desired song to the correct playlist, remove the selected song from the wrong playlist.  
 
-![wrong_playlist3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/wrong_playlist3.png?raw=true)
+    ![wrong_playlist3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/wrong_playlist3.png?raw=true)
 
 **Great!** Now continue building your playlist!
 
