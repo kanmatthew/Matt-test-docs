@@ -19,9 +19,19 @@ permalink: docs/starting-a-private-or-offline-session
 
 ## Starting a Private Session
 
-1. Click the **Arrow** next to your Account name. 
-2. Press **Private Session** within the drop down menu to begin listening without sharing or record your history. A blue lock will appear next to your profile picture when you have successfully began the Private Session.
+1. Click the **Arrow** next to your Account name.  
+
+![PrivateSession](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session.png?raw=true)
+
+2. Press **Private Session** within the drop down menu to begin listening without sharing or recording your history. A blue lock will appear next to your profile picture when you have successfully began the Private Session.  
+
+![PrivateSession2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session2.png?raw=true)
+
+![PrivateSession3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session3.png?raw=true)
+
 3. Press **Private Session** a second time to end the session.
+
+**_Note_**:A **private session** only hides your activity for 6 hours. Also, if you exit the application while in **private session** mode, you will have to set it again when you relaunch the application.
 
 ## Listening to Music Offline
 
