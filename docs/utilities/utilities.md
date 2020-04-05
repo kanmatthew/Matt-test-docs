@@ -31,7 +31,7 @@ This task will outline the steps to starting a private session and listening to 
 
 A blue lock will appear next to your profile picture when you have successfully began the Private Session.  
 
-    ![PrivateSession3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session3.png?raw=true)
+   ![PrivateSession3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session3.png?raw=true)
 
 3. Press **Private Session** a second time to end the session.
 
