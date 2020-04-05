@@ -23,15 +23,15 @@ This task will outline the steps to starting a private session and listening to 
 
 1. Click the **Arrow** next to your Account name.  
 
-![PrivateSession](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session.png?raw=true)
+    ![PrivateSession](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session.png?raw=true)
 
 2. Press **Private Session** within the drop down menu to begin listening without sharing or recording your history.  
 
-![PrivateSession2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session2.png?raw=true)
+    ![PrivateSession2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session2.png?raw=true)
 
 A blue lock will appear next to your profile picture when you have successfully began the Private Session.  
 
-![PrivateSession3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session3.png?raw=true)
+    ![PrivateSession3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session3.png?raw=true)
 
 3. Press **Private Session** a second time to end the session.
 
@@ -45,21 +45,21 @@ Alternatively, you can start a private session by clicking on the **triple dotte
 
 1. Download a playlist you would like to listen to while offline. Successfully downloaded playlists will have a green arrow next to the playlist's name.  
 
-![DownloadPlayList](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/download_playlist.png?raw=true)
+    ![DownloadPlayList](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/download_playlist.png?raw=true)
 
 **_Note_**: This option is **ONLY** available to _Premium Users_.
 
 2. Click the **triple dotted** button in the top left corner of the application.  
 
-![offline](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/offline.png?raw=true)
+    ![offline](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/offline.png?raw=true)
 
 3. Hover over **File** within the drop down menu to reveal options.  
 
-![offline2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/offline2.png?raw=true)
+    ![offline2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/offline2.png?raw=true)
 
 4. Click **Offline Mode** to begin an offline session.  
 
-![offline3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/offline3.png?raw=true)
+    ![offline3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/offline3.png?raw=true)
 
 Now you should see a blue line in your sidebar labelled **Offline**.
 
