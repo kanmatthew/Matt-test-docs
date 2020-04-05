@@ -35,9 +35,7 @@ This task will outline the steps to starting a private session and listening to 
 
 3. Press **Private Session** a second time to end the session.
 
-Alternatively, you can start a private session by clicking on the **triple dotted** button at the top left corner of the web player and the option is under **File**.
-
-**_Note_**: A **private session** only hides your activity for 6 hours. Also, if you exit the application while in **private session** mode, you will have to set it again when you relaunch the application.
+    **_Note_**: A **private session** only hides your activity for 6 hours. Also, if you exit the application while in **private session** mode, you will have to set it again when you relaunch the application.
 
 **Well Done!** Now you won't have to worry about anyone snooping about what you're listening to.
 
