@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glossary
+title: Troubleshooting
 nav_order: 99
 ---
 
