@@ -24,7 +24,7 @@ This task will outline the steps towards creating and sharing playlists.
 
 1. Click the **New Playlist** button at the bottom of the sidebar on the left side.
 ![New Playlist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/pointing-to-playlist.png?raw=true "New Playlist Button")
-2. Give the playlist a title, an optional description, then press **CREATE** 
+2. Give the playlist a title, an optional description, then press **CREATE**.
 ![Create Playlist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/create-playlist.PNG?raw=true "Creating Playlist")
 The playlist will be successfully created if it shows up in the sidebar on the left.
 
