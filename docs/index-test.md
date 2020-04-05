@@ -19,7 +19,7 @@ nav_order: 99
 
 If you forget your login password, when you open up the Spotify Web Player application, click the **Reset Password** button at the bottom of the Log In window.  
 
-![ResetPassword](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/Reset_password.png?raw=true "Reset Password")
+   ![ResetPassword](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/Reset_password.png?raw=true "Reset Password")
 
 # Made a Mistake When Creating Playlist?
 
@@ -31,7 +31,7 @@ If you forget your login password, when you open up the Spotify Web Player appli
 
     ![EditPlaylist2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/editplaylist2.png?raw=true)
 
-_Now you can change the name of the playlist or its description_.
+    _Now you can change the name of the playlist or its description_.
 
 # Added To The Wrong Playlist?
 
