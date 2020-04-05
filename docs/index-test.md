@@ -32,3 +32,20 @@ If you forget your login password, when you open up the Spotify Web Player appli
 ![EditPlaylist2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/editplaylist2.png?raw=true)
 
 _Now you can change the name of the playlist or its description_.
+
+# Added To The Wrong Playlist?
+
+1. Go to the wrong playlist you added a song to and find the song.  
+
+![wrong_playlist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/wrong_playlist.png?raw=true)
+
+2. Click the **triple dotted** button and add the song to the correct playlist.  
+
+![wrong_playlist2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/wrong_playlist2.png?raw=true)
+ 
+3. After adding your desired song to the correct playlist, remove the selected song from the wrong playlist.  
+
+![wrong_playlist3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/wrong_playlist3.png?raw=true)
+
+
+
