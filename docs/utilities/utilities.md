@@ -8,6 +8,8 @@ permalink: docs/starting-a-private-or-offline-session
 # Starting a Private or Offline Session
 {: .no_toc }
 
+This task will outline the steps to starting a private session and listening to music offline.
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -42,6 +44,8 @@ Alternatively, you can start a private session by clicking on the **triple dotte
 1. Download a playlist you would like to listen to while offline. Successfully downloaded playlists will have a green arrow next to the playlist's name.  
 
 ![DownloadPlayList](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/download_playlist.png?raw=true)
+
+**_Note_**: This option is **ONLY** available to _Premium Users_.
 
 2. Click the **triple dotted** button in the top left corner of the application.  
 
