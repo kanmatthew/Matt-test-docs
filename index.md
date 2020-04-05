@@ -36,9 +36,9 @@ To follow these instructions, you will need:
 
 As mentioned above in the **Prerequisites**, you must have the Spotify Web Player installed and be logged into the application. Here are a few steps to get you started.
 
-1. Go to the [Spotify](https://www.spotify.com/us/) homepage
+1. Go to the [Spotify](https://www.spotify.com/us/) homepage.
 
-2. Click on the **Download** button at the top of the browser  
+2. Click on the **Download** button at the top of the browser.  
 
 ![HomePage](assets/images/Spotify_homepage.png?raw=true)
 
