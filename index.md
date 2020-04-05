@@ -46,4 +46,12 @@ As mentioned above in the **Prerequisites**, you must have the Spotify Web Playe
 
 ![DownloadPage](assets/images/Downloaded_page.png?raw=true)
 
-**_Note_**: If the setup wasn't automically downloaded, press _try again_ in the middle of the page.
+**_Note_**: If the setup wasn't automically downloaded, press **try again** in the middle of the page.
+
+4. After the setup is finished downloading and installing the web player, click **LOG IN**.
+
+![WebPlayerLogIn](assets/images/Spotify_web_player.png?raw=true)
+
+**_Note_**: If you don't already have an account, click **SIGN UP FREE** and follow the instructions to create an account.
+
+**Great job!** You have successfully setup and logged into your Spotify web player.
