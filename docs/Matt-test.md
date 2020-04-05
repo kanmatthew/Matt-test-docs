@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Test Markdown Matthew
-nav_order: 9
+
 ---
 
 # Markdown Challenge Matthew
