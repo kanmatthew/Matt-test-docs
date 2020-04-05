@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Customization
-nav_order: true
+nav_exclude: true
 ---
 
 # Customization
