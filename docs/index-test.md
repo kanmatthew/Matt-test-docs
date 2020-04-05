@@ -19,4 +19,4 @@ nav_order: 99
 
 If you forget your login password, when you start up the web player application for Spotify, click **RESET PASSWORD** button.  
 
-![ResetPassword](https://github.com/kanmatthew/Matt-test-docs/tree/gh-pages/assets/images/Reset_password.png?raw=true)
+![ResetPassword](https://github.com/kanmatthew/Matt-test-docs/tree/gh-pages/assets/images/Reset_password.png?raw=true "Reset Password")
