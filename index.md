@@ -44,6 +44,6 @@ As mentioned above in the **Prerequisites**, you must have the Spotify Web Playe
 
 3. Click on the **SpotifySetup.exe** file.
 
-![DownloadPage](assets/images/Download_page.png?raw=true)
+![DownloadPage](assets/images/Downloaded_page.png?raw=true)
 
 **_Note_**: If the setup wasn't automically downloaded, press _try again_ in the middle of the page.
