@@ -38,16 +38,13 @@ As mentioned above in the **Prerequisites**, you must have the Spotify Web Playe
 
 1. Go to the [Spotify](https://www.spotify.com/us/) homepage
 
-2. Click on the **Download** button at the top of the browser  
-![HomePage](assets/images/Spotify_homepage.png?raw=true)
+2. Click on the **Download** button at the top of the browser&nbsp  ![HomePage](assets/images/Spotify_homepage.png?raw=true)
 
-3. Click on the **SpotifySetup.exe** file.  
-![DownloadPage](assets/images/Downloaded_page.png?raw=true)
+3. Click on the **SpotifySetup.exe** file.&nbsp  ![DownloadPage](assets/images/Downloaded_page.png?raw=true)
 
 **_Note_**: If the setup wasn't automically downloaded, press **try again** in the middle of the page.
 
-4. After the setup is finished downloading and installing the web player, click **LOG IN**.  
-![WebPlayerLogIn](assets/images/Spotify_web_player.png?raw=true)
+4. After the setup is finished downloading and installing the web player, click **LOG IN**.&nbsp  ![WebPlayerLogIn](assets/images/Spotify_web_player.png?raw=true)
 
 **_Note_**: If you don't already have an account, click **SIGN UP FREE** and follow the instructions to create an account.
 
