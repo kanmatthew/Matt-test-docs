@@ -39,6 +39,8 @@ Alternatively, you can start a private session by clicking on the **triple dotte
 
 **_Note_**: A **private session** only hides your activity for 6 hours. Also, if you exit the application while in **private session** mode, you will have to set it again when you relaunch the application.
 
+**Well Done!** Now you won't have to worry about anyone snooping about what you're listening to.
+
 ## Listening to Music Offline
 
 1. Download a playlist you would like to listen to while offline. Successfully downloaded playlists will have a green arrow next to the playlist's name.  
@@ -60,3 +62,5 @@ Alternatively, you can start a private session by clicking on the **triple dotte
 ![offline3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/offline3.png?raw=true)
 
 Now you should see a blue line in your sidebar labelled **Offline**.
+
+**Great job!** Now you can listen to your music without requiring internet usage!
