@@ -47,5 +47,5 @@ _Now you can change the name of the playlist or its description_.
 
 ![wrong_playlist3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/wrong_playlist3.png?raw=true)
 
-
+**Great!** Now continue building your playlist!
 
