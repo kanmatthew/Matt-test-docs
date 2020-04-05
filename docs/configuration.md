@@ -33,8 +33,9 @@ The playlist will successfully be deleted when the playlist no longer appears in
 
 ## Recovering a Playlist
 
-1. Press the **Arrow** next to your Account name to display a drop down menu.
-
+1. Press the **Arrow** next to your Account name.
+![AccountArrow](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/account-drop-down.png?raw=true "Account Arrow")
 2. Press **Account** within the drop down menu to be redirected to your account page in an internet browser.
+![AccountMenu](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/account-menu.png?raw=true "Account Menu")
 3. Scroll down and click the **Recover Playlists** tab from the sidebar. A list of removed playlists should be displayed with its name and date of removal.
 4. Click **Restore** next to the desired playlist to add it back to your library. The playlist will be successfully recovered if it shows up in your library.
