@@ -27,11 +27,13 @@ permalink: docs/starting-a-private-or-offline-session
 
 ![PrivateSession2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session2.png?raw=true)
 
+
 ![PrivateSession3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session3.png?raw=true)
+
 
 3. Press **Private Session** a second time to end the session.
 
-**_Note_**:A **private session** only hides your activity for 6 hours. Also, if you exit the application while in **private session** mode, you will have to set it again when you relaunch the application.
+**_Note_**: A **private session** only hides your activity for 6 hours. Also, if you exit the application while in **private session** mode, you will have to set it again when you relaunch the application.
 
 ## Listening to Music Offline
 
