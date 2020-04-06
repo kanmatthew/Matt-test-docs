@@ -29,7 +29,7 @@ This task will outline the steps to starting a private session and listening to 
 
     ![PrivateSession2](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session2.png?raw=true)
 
-    A blue lock will appear next to your profile picture when you have successfully began the Private Session.  
+    _A blue lock will appear next to your profile picture when you have successfully began the Private Session_.  
 
     ![PrivateSession3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/start_private_session3.png?raw=true)
 
@@ -59,6 +59,6 @@ This task will outline the steps to starting a private session and listening to 
 
     ![offline3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/offline3.png?raw=true)
 
-    Now you should see a blue line in your sidebar labelled **Offline**.
+    _Now you should see a blue line in your sidebar labelled **Offline**_.
 
 **Great job!** Now you can listen to your music without requiring internet usage!
