@@ -32,7 +32,7 @@ This task will outline the steps towards creating and sharing playlists.
 
     _The playlist will be successfully created if it shows up in the sidebar on the left_.
 
-***Great job!** Now you can create playlists!*
+***Congradulations!** Now you can create playlists!*
 
 ## Adding Songs to a Playlist
 
@@ -48,7 +48,7 @@ This task will outline the steps towards creating and sharing playlists.
 
     _The song will be successfully added when it appears within the playlist_.
 
-***Great job!** Now you fill your playlists with songs!*
+***Well done!** Now you fill your playlists with songs!*
 
 ## Sharing a Playlist
 
