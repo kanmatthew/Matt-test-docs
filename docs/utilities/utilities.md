@@ -61,4 +61,4 @@ This task will outline the steps to starting a private session and listening to 
 
     _Now you should see a blue line in your sidebar labelled **Offline**_.
 
-**Great job!** Now you can listen to your music without requiring internet usage!
+_**Great job!** Now you can listen to your music without requiring internet usage!_
