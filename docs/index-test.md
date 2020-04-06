@@ -47,5 +47,4 @@ If you forget your login password, when you open up the Spotify Web Player appli
 
     ![wrong_playlist3](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/wrong_playlist3.png?raw=true)
 
-**Great!** Now continue building your playlist!
-
+_**Great!** Now continue building your playlist!_
