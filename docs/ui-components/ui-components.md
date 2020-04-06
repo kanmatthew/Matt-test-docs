@@ -32,6 +32,8 @@ This task will outline the steps towards creating and sharing playlists.
 
     _The playlist will be successfully created if it shows up in the sidebar on the left_.
 
+***Great job!** Now you can create playlists!*
+
 ## Adding Songs to a Playlist
 
 1. Select a song to be added to a playlist.
@@ -45,6 +47,8 @@ This task will outline the steps towards creating and sharing playlists.
     ![AddSong](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/add-song-to-playlist.png?raw=true "Adding to Playlist")
 
     _The song will be successfully added when it appears within the playlist_.
+
+***Great job!** Now you fill your playlists with songs!*
 
 ## Sharing a Playlist
 
@@ -65,3 +69,5 @@ This task will outline the steps towards creating and sharing playlists.
     _The link to the playlist will be copied to your clipbord_.
 
     **_Note_**: Your playlist needs to be public in order for other users to access it.
+    
+***Great job!** Now you can share your playlists with the world!*
