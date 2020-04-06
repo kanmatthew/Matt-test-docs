@@ -32,7 +32,7 @@ This task will outline the steps towards deleting a playlist and recovering lost
 
     ![DeleteConfirm](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/delete-confirm.png?raw=true "Delete Confirm")
 
-    The playlist will successfully be deleted when the playlist no longer appears in the left sidebar and a notification titled **Removed From Your Library** pops up.
+    *The playlist will successfully be deleted when the playlist no longer appears in the left sidebar and a notification titled **Removed From Your Library** pops up.*
 
     ![DeleteSuccess](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/removed-from-library2.png?raw=true "Deleted Successfully")
     
