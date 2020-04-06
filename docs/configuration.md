@@ -35,6 +35,10 @@ This task will outline the steps towards deleting a playlist and recovering lost
     The playlist will successfully be deleted when the playlist no longer appears in the left sidebar and a notification titled **Removed From Your Library** pops up.
 
     ![DeleteSuccess](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/removed-from-library2.png?raw=true "Deleted Successfully")
+    
+***Great job!** Now you can remove any playlist from your library!*
+
+
 
 
 ## Recovering a Playlist
@@ -54,3 +58,5 @@ This task will outline the steps towards deleting a playlist and recovering lost
 3. Click **Restore** next to the desired playlist to add it back to your library. The playlist will be successfully recovered if it shows up in your library.
 
     ![RecoverPlaylist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/recover-playlist.PNG?raw=true "Recover the Playlist")
+
+***Great job!** Now you can recover any lost or deleted playlists!*
