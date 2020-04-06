@@ -2,19 +2,19 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "This instruction set will guide you in the use of Spotify's lesser known functions."
+description: "This instruction set will guide you in the use of some of Spotify's functions."
 permalink: /
 ---
 
 # Introduction
 {: .fs-9 }
 
-This instruction set will guide you in the use of Spotify's lesser known functions.
+This instruction set will guide you in the use of some of Spotify's functions.
 {: .fs-6 .fw-300 }
 
 ---
 
-These instructions cover how to recover a deleted playlist, how to find songs catered to your taste, and how to start a private session on the Spotify application. Spotify is a digital music, podcast, and video streaming service with access to millions of songs and other media content from artists around the world. Spotify is the most popular global audio streaming subscription service because of its basic user interface across all platforms, its streaming quality, and its music sharing capabilities.
+These instructions cover how to create and share playlists, delete and recover playlists, and how to start a private session or listen offline on the Spotify application. Spotify is a digital music, podcast, and video streaming service with access to millions of songs and other media content from artists around the world. Spotify is the most popular global audio streaming subscription service because of its basic user interface across all platforms, its streaming quality, and its music sharing capabilities.
 
 This manual is intended for users with basic computer skills and little to no experience with Spotify.
 
