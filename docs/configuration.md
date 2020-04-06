@@ -36,10 +36,7 @@ This task will outline the steps towards deleting a playlist and recovering lost
 
     ![DeleteSuccess](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/removed-from-library2.png?raw=true "Deleted Successfully")
     
-***Great job!** Now you can remove any playlist from your library!*
-
-
-
+***Perfect!** Now you can remove any playlist from your library!*
 
 ## Recovering a Playlist
 
@@ -59,4 +56,4 @@ This task will outline the steps towards deleting a playlist and recovering lost
 
     ![RecoverPlaylist](https://github.com/kanmatthew/Matt-test-docs/blob/gh-pages/assets/images/recover-playlist.PNG?raw=true "Recover the Playlist")
 
-***Great job!** Now you can recover any lost or deleted playlists!*
+***You did it!** Now you can recover any lost or deleted playlists!*
